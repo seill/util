@@ -1,6 +1,6 @@
 module github.com/seill/util
 
-go 1.14
+go 1.20
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.30.3
